@@ -1,0 +1,7 @@
+1.프로젝트생성.txt
+
+ - 파일 생성
+ - git add
+ - git commit 
+ - git remote (원격저장소 연결)
+ - git push
