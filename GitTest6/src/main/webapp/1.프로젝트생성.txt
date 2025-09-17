@@ -4,4 +4,4 @@
  - git add
  - git commit 
  - git remote (원격저장소 연결)
- - git push
+ - git push (원격저장소로 보내기)
