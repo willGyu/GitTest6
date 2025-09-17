@@ -6,3 +6,5 @@
  - git remote (원격저장소 연결)
    원격저장소(Github) 연결은 한번만 설정
  - git push (원격저장소로 보내기)
+ - Synchronize (동기화)
+ - git pull
